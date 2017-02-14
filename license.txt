@@ -4,3 +4,4 @@ jimmy
 add one new line for test the git function
 change the file 2 times
 Creating a new branch is quick
+Creating a new branch is quick AND simple.
